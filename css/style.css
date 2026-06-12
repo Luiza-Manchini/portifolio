@@ -622,7 +622,7 @@ code {
 
 .project-mini-panel {
   display: grid;
-  align-content: start;
+  align-content: center;
   gap: 0.5rem;
   padding: 1.15rem;
   border: 1px solid var(--border);
