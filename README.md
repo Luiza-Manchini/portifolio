@@ -1,39 +1,19 @@
-# Portfólio Acadêmico - Luiza Manchini
+# Portfólio de Projetos - Fatec Jacareí
 
-Portfólio acadêmico e profissional desenvolvido como site estático, com foco em projetos da FATEC Jacareí, automação, desenvolvimento e evolução na área de tecnologia.
+**Aluno:** Luiza Manchini  
+**Curso:** Desenvolvimento de Software Multiplataforma  
+**Turma:** 2º semestre de 2025
 
-## Estrutura
+---
 
-```text
-PORTIFOLIO/
-├── index.html
-├── README.md
-├── assets/
-│   ├── documents/
-│   │   └── CV.pdf
-│   ├── icons/
-│   │   └── favicon.svg
-│   └── images/
-│       ├── GifFigma.gif
-│       └── perfil.jpeg
-├── css/
-│   └── style.css
-└── js/
-    └── script.js
-```
+**Portfólio Online**
 
-## Pastas
+🔗 [Acesse o Portfólio](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392523030/)
 
-- `assets/images`: imagens e GIFs usados nas seções do portfólio.
-- `assets/icons`: favicon e possíveis ícones do projeto.
-- `assets/documents`: documentos para download, como o currículo em `CV.pdf`.
-- `css`: estilos globais do site.
-- `js`: scripts de navegação, menu e animações.
+---
 
-## Como Abrir
+**Vídeos de Apresentação**
 
-Abra o arquivo `index.html` no navegador ou use uma extensão de servidor local, como Live Server.
-
-## Observação
-
-O botão de currículo já aponta para `assets/documents/CV.pdf`. Quando o currículo estiver pronto, basta adicionar o arquivo com esse nome nessa pasta.
+🎤 2DSM - [Vídeo](https://www.youtube.com/watch?v=JsSmviZzrIc)  
+🎤 4DSM - [Vídeo](LINK_VIDEO_4DSM)  
+🎤 6DSM - [Vídeo](LINK_VIDEO_6DSM)
